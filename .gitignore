@@ -1,0 +1,6 @@
+HAPT\ Data\ Set/
+logs/
+UCI\ HAR\ Dataset/
+dataset_explorer.ipynb
+*.zip
+Weather Forecast.ipynb
